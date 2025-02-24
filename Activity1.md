@@ -11,7 +11,7 @@ To begin, you need to fork the repository.  Any time you are going to work on so
 1. You are already on this repository, so all you have to do is fork it to your own account.
 
     To begin, make sure you are on the correct repository, find the `Fork` button, and press the button to fork this repository to your own account.
-
+    CHANGE HERE
     ![Fork the repository](images/Activity1/Image0101.png)
 
 2. Select the correct account where you want to fork the code.
